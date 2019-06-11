@@ -1,8 +1,10 @@
-from pawn_class import *
+from importfile import *
 
 myPawn = Pawn()
+whiteKing = King()
+whiteKing.move_forward()
 
-print myPawn.firstMoveSpeed
+print board_columns[0]
 
 print "[r][h][b][q][k][b][h][r]"
 print "[p][p][p][p][p][p][p][p]"
