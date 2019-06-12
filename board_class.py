@@ -1,5 +1,7 @@
 # a board consists of 64 squares
 board_columns = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h'] 
+movement = 4
+
 
 # white pieces
 # abcdefgh
