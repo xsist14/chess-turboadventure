@@ -4,11 +4,19 @@ myPawn = Pawn()
 whiteKing = King()
 whiteKing.move_forward()
 whiteKing.move_forward()
+whiteKing.move_forward()
+whiteKing.move_forward()
+whiteKing.move_forward()
+whiteKing.move_forward()
+whiteKing.move_forward()
+whiteKing.move_forward()
+whiteKing.move_forward()
+
 
 whiteKing.move_right()
-whiteKing.move_back()
-whiteKing.move_back()
-whiteKing.move_back()
+# whiteKing.move_back()
+
+
 whiteKing.move_left()
 whiteKing.get_king_position()
 
